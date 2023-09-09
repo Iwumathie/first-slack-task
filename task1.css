@@ -6,15 +6,25 @@ div{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
     justify-content: center;
     margin: 0 auto;
     
 }
 img{
-    width: 20rem;
+    width: 16rem;
     height: 20rem;
 }
 h1{
     font-size: 30px;
+}
+a{
+    text-decoration: none;
+    padding: 4px;
+    width: 10rem;
+    text-align: center;
+    background: blue;
+    font-size: 19px;
+    color: white;
+    border-radius: 10px;
 }
